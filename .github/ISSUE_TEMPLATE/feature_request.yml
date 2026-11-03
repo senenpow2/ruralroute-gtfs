@@ -1,0 +1,15 @@
+name: Feature request
+about: Suggest a new GTFS capability or integration
+labels: [enhancement]
+body:
+  - type: textarea
+    id: usecase
+    attributes:
+      label: Real-world use case
+      description: Who needs this, and what problem does it solve?
+    validations:
+      required: true
+  - type: textarea
+    id: data
+    attributes:
+      label: Example public GTFS data (optional)

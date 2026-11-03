@@ -1,0 +1,7 @@
+route_id,service_id,trip_id
+V1,DAILY,village_in
+V1,DAILY,village_out_early
+C2,DAILY,hospital_out
+C2,DAILY,hospital_back
+C2,DAILY,venue_out
+C2,DAILY,venue_back

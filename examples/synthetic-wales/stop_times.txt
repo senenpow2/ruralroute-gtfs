@@ -1,0 +1,13 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence
+village_in,08:00:00,08:00:00,HOME,1
+village_in,08:50:00,08:50:00,TOWN,2
+village_out_early,17:30:00,17:30:00,TOWN,1
+village_out_early,18:20:00,18:20:00,HOME,2
+hospital_out,09:00:00,09:00:00,TOWN,1
+hospital_out,09:10:00,09:10:00,HOSP,2
+hospital_back,16:50:00,16:50:00,HOSP,1
+hospital_back,17:00:00,17:00:00,TOWN,2
+venue_out,09:05:00,09:05:00,TOWN,1
+venue_out,09:20:00,09:20:00,VENUE,2
+venue_back,20:00:00,20:00:00,VENUE,1
+venue_back,20:15:00,20:15:00,TOWN,2

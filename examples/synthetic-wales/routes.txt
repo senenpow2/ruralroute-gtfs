@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+V1,DEMO,V1,Example Village Connector,3
+C2,DEMO,C2,Example Town Shuttle,3

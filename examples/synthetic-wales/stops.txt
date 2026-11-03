@@ -1,0 +1,5 @@
+stop_id,stop_name,stop_lat,stop_lon
+HOME,Example Village,52.59,-3.85
+TOWN,Example Town Centre,52.42,-4.08
+HOSP,Example Hospital,52.40,-4.07
+VENUE,Example Evening Venue,52.41,-4.06
